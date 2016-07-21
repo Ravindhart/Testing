@@ -3,3 +3,7 @@ This is modified in branch2
 This is line3
 This is added to branch
 
+
+
+
+This is newBranch2
