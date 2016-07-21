@@ -10,3 +10,4 @@ This is the third modification at GitHub.com
 
 This line is for testing rebase
 
+This line is for testing rebase2
