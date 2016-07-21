@@ -2,4 +2,6 @@ This is line1
 This is modified in branch2
 This is line3
 This is added to branch
-
+This is line2
+This is line3
+This is added in newBranch
